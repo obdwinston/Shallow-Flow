@@ -1,8 +1,8 @@
 # Shallow Water Flow Solver
 
-*Python code completed less inflow boundary condition (will be included in Fortran code).*<br />
-*Fortran code coming soon!*<br />
-*More complex topographies coming soon!*<br />
+Python code completed less inflow boundary condition (will be included in Fortran code).<br />
+Fortran code coming soon.<br />
+More complex topographies coming soon.<br />
 
 ## References
 [1] Hou et al. (2015). *An Efficient Unstructured MUSCL Scheme for Solving the 2D Shallow Water Equations.*<br />
