@@ -37,7 +37,7 @@ Vc = []  # cell volume
 cc = []  # cell centre
 sc = []  # cell face sign
 fc = []  # adjacent cell face index (local)
-nc = []  # cell opposite node index (global)
+nc = []  # cell face opposite node index (global)
 rfc = []  # cell centre to cell face distance
 rnc = []  # cell opposite node to cell centre distance
 
