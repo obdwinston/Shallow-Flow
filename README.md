@@ -10,4 +10,4 @@
 
 ### Dam Break over Bump
 
-### Solver Theory
+## Solver Theory
