@@ -14,4 +14,4 @@
 
 ## Solver Theory
 
-![image](https://github.com/obdwinston/Shallow-Flow/assets/104728656/45e6e28e-dd3e-47d0-83f1-fc4754e37379)
+![image](https://github.com/obdwinston/Shallow-Flow/assets/104728656/4a1a5577-734d-4fa3-bbe3-502d50f29a49)
