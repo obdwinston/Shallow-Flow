@@ -13,3 +13,5 @@
 ### Dam Break over Bump
 
 ## Solver Theory
+
+![image](https://github.com/obdwinston/Shallow-Flow/assets/104728656/45e6e28e-dd3e-47d0-83f1-fc4754e37379)
