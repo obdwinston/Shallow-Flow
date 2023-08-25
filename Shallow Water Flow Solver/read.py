@@ -116,5 +116,5 @@ for it in range(0, nit, interval):
     frames.append(data + 'figure{:d}.png'.format(it))
     print(it)
 
-clip = mpy.ImageSequenceClip(frames, fps=interval(len(frames)/tt))
+clip = mpy.ImageSequenceClip(frames, fps=int(len(frames)/tt))
 clip.write_videofile(data + 'animation.mp4')
