@@ -1,11 +1,17 @@
 # Shallow Water Flow Solver
 
-*Fortran code completed less inflow boundary condition.*<br />
-*More complex topographies coming soon.*<br />
-
 ## References
 [1] Hou et al. (2015). *An Efficient Unstructured MUSCL Scheme for Solving the 2D Shallow Water Equations.*<br />
 [2] Song et al. (2011). *A Robust Well-Balanced Finite Volume Model for Shallow Water Flows with Wetting and Drying over Irregular Terrain.*<br />
+
+## Program Files
+
+| File          | Purpose                                                            |
+| :---:         | :---                                                               |
+| main.f90      | Main program containing functions and subroutines for flow solver. |
+| read.py       | Post-processing program to create depth animation.                 |
+| domain.geo  | File containing geometric information to generate mesh in Gmsh.      |
+| domain.su2  | File containing mesh information to input to main program.           |
 
 ## Program Verification
 
