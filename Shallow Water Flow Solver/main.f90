@@ -3,7 +3,7 @@ program main
     implicit none
 
     character(100), parameter ::    mesh        = 'monai.su2'       ! mesh file
-    character(100), parameter ::    data        = 'data_monai/'           ! data folder
+    character(100), parameter ::    data        = 'data_monai/'     ! data folder
     integer, parameter ::           precision   = 8                 ! real number precision
     integer, parameter ::           interval    = 100               ! write interval
     real(precision), parameter ::   g           = 9.81              ! gravitational acceleration
