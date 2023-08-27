@@ -7,6 +7,8 @@
 
 ## Monai Valley (1993)
 
+For more details on the case study, please click [here](https://nctr.pmel.noaa.gov/benchmark/Laboratory/Laboratory_MonaiValley/index.html).
+
 https://github.com/obdwinston/Shallow-Flow/assets/104728656/12dfc506-dc0c-44ca-bcb2-e02e727a548d
 
 ![image](https://github.com/obdwinston/Shallow-Flow/assets/104728656/2c45011f-5401-493d-97ed-d96f5b7079f9)
@@ -16,7 +18,7 @@ https://github.com/obdwinston/Shallow-Flow/assets/104728656/12dfc506-dc0c-44ca-b
 | File          | Purpose                                                                          |
 | :---:         | :---                                                                             |
 | main.f90      | Main program containing functions and subroutines for flow solver.               |
-| read.py       | Post-processing program to create depth animation with Plotly.                   |
+| read.py       | Post-processing program to create surface/depth animation with Plotly.           |
 | monai.py      | Pre-processing program to set up initial conditions for Monai Valley case study. |
 | b_raw.txt     | Raw bathymetry data for Monai Valley case study used in monai.py.                |
 | ht_raw.txt    | Raw inflow height data for Monai Valley case study used in monai.py.             |
