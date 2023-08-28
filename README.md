@@ -7,7 +7,7 @@
 
 ## Monai Valley (1993)
 
-For more details on the case study, please click [here](https://nctr.pmel.noaa.gov/benchmark/Laboratory/Laboratory_MonaiValley/index.html).
+For more details on the case study, see [here](https://nctr.pmel.noaa.gov/benchmark/Laboratory/Laboratory_MonaiValley/index.html).
 
 https://github.com/obdwinston/Shallow-Flow/assets/104728656/12dfc506-dc0c-44ca-bcb2-e02e727a548d
 
