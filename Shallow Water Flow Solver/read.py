@@ -55,7 +55,6 @@ for it in range(0, nit, interval):
         scene = {
             "xaxis": {"nticks": 20},
             "zaxis": {"nticks": 5},
-            'camera_eye': {"x": 0, "y": -1, "z": 0.5},
             "aspectratio": {"x": 1, "y": 1, "z": 0.4}
         },
         scene_camera_eye=dict(x=-1., y=-1.5, z=.6),
