@@ -7,7 +7,7 @@ program main
     integer, parameter ::           precision   = 8                 ! real number precision
     integer, parameter ::           interval    = 100               ! write interval
     real(precision), parameter ::   g           = 9.81              ! gravitational acceleration
-    real(precision), parameter ::   dry         = 1e-3              ! dry depth
+    real(precision), parameter ::   dry         = 1e-5              ! dry depth
     real(precision), parameter ::   n           = 1e-3              ! Manning coefficienst
     real(precision), parameter ::   tt          = 22.5              ! total time
     real(precision), parameter ::   dt          = 1e-3              ! time step
