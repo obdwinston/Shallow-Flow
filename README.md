@@ -9,9 +9,9 @@
 
 For more details on the case study, see [here](https://nctr.pmel.noaa.gov/benchmark/Laboratory/Laboratory_MonaiValley/index.html).
 
-https://github.com/obdwinston/Shallow-Flow/assets/104728656/12dfc506-dc0c-44ca-bcb2-e02e727a548d
+https://github.com/obdwinston/Shallow-Flow/assets/104728656/3e750be1-55ad-4df7-8f9e-2e18c5a09010
 
-https://github.com/obdwinston/Shallow-Flow/assets/104728656/2ed753c9-1193-4728-a0fc-1bb36984d542
+https://github.com/obdwinston/Shallow-Flow/assets/104728656/597c04c6-8a13-4868-8d89-f7164bb3039d
 
 ![image](https://github.com/obdwinston/Shallow-Flow/assets/104728656/2c45011f-5401-493d-97ed-d96f5b7079f9)
 
