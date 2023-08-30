@@ -48,7 +48,7 @@ for it in range(0, nit, interval):
     data = [
         go.Surface(x=x, y=y, z=zb+dry, colorscale='Earth', showscale=False),
         go.Surface(x=x, y=y, z=zz-dry, colorscale='Blues', 
-                   cmin=-.02, cmax=+.02, showscale=False, opacity=.8)
+                   cmin=-.02, cmax=.02, showscale=False, opacity=.8)
     ]
 
     fig = go.Figure(data=data)
