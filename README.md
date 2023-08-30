@@ -20,7 +20,7 @@ https://github.com/obdwinston/Shallow-Flow/assets/104728656/597c04c6-8a13-4868-8
 | File          | Purpose                                                                          |
 | :---:         | :---                                                                             |
 | main.f90      | Main program containing functions and subroutines for flow solver.               |
-| monai.py      | Pre-processing program to set up initial conditions for Monai Valley case study.<br />Run this whenever (1) running case study for the first time, (2) there is a change in mesh size, or (3) there is a change in time step.|
+| monai.py      | Pre-processing program to set up initial conditions for Monai Valley case study.<br />*Run this whenever (1) running case study for the first time, (2) there is a change in mesh size, or (3) there is a change in time step.*|
 | b_raw.txt     | Raw bathymetry data for Monai Valley case study used in monai.py.                |
 | ht_raw.txt    | Raw inflow height data for Monai Valley case study used in monai.py.             |
 | read.py       | Post-processing program to create flow animation with Plotly.                    |
