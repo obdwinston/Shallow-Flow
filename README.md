@@ -31,13 +31,13 @@ https://github.com/obdwinston/Shallow-Flow/assets/104728656/597c04c6-8a13-4868-8
 
 ### Dam Break over Bump
 
-https://github.com/obdwinston/Shallow-Flow/assets/104728656/4e5bcf57-81ba-4598-a16f-ae3fef3bc880
+https://github.com/obdwinston/Shallow-Flow/assets/104728656/6a54d96f-0595-4afd-a1e3-0928f3d857eb
 
 ![image](https://github.com/obdwinston/Shallow-Flow/assets/104728656/8e15dbc1-484a-4552-be34-df7e1d749fdf)
 
 ### Circular Dam Break
 
-https://github.com/obdwinston/Shallow-Flow/assets/104728656/c89d26c9-db6b-4bbf-b00d-31623f6a1ac0
+https://github.com/obdwinston/Shallow-Flow/assets/104728656/8bbe32ef-1606-4e75-8bb7-b13991308c0a
 
 ![image](https://github.com/obdwinston/Shallow-Flow/assets/104728656/22c3d069-1dae-40a8-9670-f63e5e859694)
 
