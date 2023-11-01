@@ -7,7 +7,11 @@
 
 ## Monai Valley (1993)
 
-For more details on the case study, see [here](https://nctr.pmel.noaa.gov/benchmark/Laboratory/Laboratory_MonaiValley/index.html).
+The animation shows a numerical simulation of the Shallow Water equations, which approximate free surface shallow flows. The simulation is part of a massive tsunami which engulfed a small offshore island called Okushiri Island, off the west coast of Hokkaido, Japan in 1993. The specific region in the animation is Monai Valley, located on the southwestern coast of Okushiri Island, where an extreme vertical runup of 30 metres was discovered.
+
+Based on the simulation, the maximum vertical runup is approximately 0.08 metres, or 32 metres to scale, which closely matches the field observation. It never ceases to amaze me how, despite simplifying assumptions on the full governing equations (i.e. Navier-Stokes) and approximating (albeit clever) numerical schemes, the numerical solution is still able to match up to physical experiments and field observations.
+
+The numerical scheme was referenced from Hou et al. (2015) and coded in Fortran for the main solver. Pre- and post-processing programs are coded in Python. For more details on the case study, see [here](https://nctr.pmel.noaa.gov/benchmark/Laboratory/Laboratory_MonaiValley/index.html).
 
 https://github.com/obdwinston/Shallow-Flow/assets/104728656/3e750be1-55ad-4df7-8f9e-2e18c5a09010
 
